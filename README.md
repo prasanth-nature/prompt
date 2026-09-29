@@ -119,7 +119,7 @@ chat relate to marriage or Long term relationship
 ```
 ## learning
 
-``
+```
 how to self learning?
 subject: x
 
