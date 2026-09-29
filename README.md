@@ -6,6 +6,7 @@ prompt for language models
  - people
  - person
  - how to
+ - learning
  - list
  - type
  - relate
@@ -116,6 +117,19 @@ how to represent 3d in 2d
 How to ask: can you have a date/time for chat with me
 chat relate to marriage or Long term relationship
 ```
+## learning
+
+``
+how to self learning?
+subject: x
+
+research topics, concepts
+terms, morphemes, morpheme statistics
+semantic network, concept map
+standard reference, open access sites, books, lectures, articles
+```
+
+
 ## list
 
 ```
