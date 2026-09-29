@@ -13,6 +13,7 @@ prompt for language models
  - symbols and notation
  - equivalent
  - resource
+ - general
 
 ## book
 
@@ -195,3 +196,38 @@ Focus: Public Places & Accessibility
 
 how: name, meta, link as .md table within code
 ```
+
+## general
+
+```
+for: X1; 
+```
+
+then for: x2
+
+```
+likely
+```
+
+```
+in simple text
+```
+
+```
+without latex
+```
+
+```
+with practical examples
+```
+
+for: 
+
+Everything you see — light, matter, energy —
+is just the universe’s fields dancing in different patterns.
+
+```
+so, x is y?
+```
+So Human, Tree are fixed field variant and their acts are movement of fixed variant
+
