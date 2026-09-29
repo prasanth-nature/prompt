@@ -13,7 +13,9 @@ prompt for language models
  - symbols and notation
  - equivalent
  - resource
+ - method
  - general
+
 
 ## book
 
@@ -196,6 +198,13 @@ Focus: Public Places & Accessibility
 
 how: name, meta, link as .md table within code
 ```
+
+## method
+
+```
+Methods for Branching / Classifying Mathematics
+```
+
 
 ## general
 
