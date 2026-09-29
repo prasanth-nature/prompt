@@ -124,7 +124,7 @@ how to self learning?
 subject: x
 
 research topics, concepts
-terms, morphemes, morpheme statistics
+terms, morphemes,symbols, notation
 semantic network, concept map
 standard reference, open access sites, books, lectures, articles
 ```
