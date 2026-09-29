@@ -156,10 +156,12 @@ Differ: Force, stress, tension, pressure, strain
 ## symbols and notation
 
 ```
+what:
 symbols and notation
 in: mathematics
 by category
 
+how: as .md table
 field: | Symbol | Read As | Mathematical Meaning | Concrete Example |
 ```
 ## equivalent
