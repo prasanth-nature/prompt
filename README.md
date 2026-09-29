@@ -243,3 +243,10 @@ So Human, Tree are fixed field variant and their acts are movement of fixed vari
 ```
 evaluate my prompt patterns
 ```
+
+```
+list all my prompts in this chat
+```
+```
+generate prompt for this caht
+```
