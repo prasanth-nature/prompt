@@ -231,3 +231,6 @@ so, x is y?
 ```
 So Human, Tree are fixed field variant and their acts are movement of fixed variant
 
+```
+evaluate my prompt patterns
+```
